@@ -1,0 +1,6 @@
+chromadb<=0.7.6
+ipython==8.12.3
+nltk==3.8.1
+python-dotenv==1.0.1
+unstructured==0.16.23
+unstructured_client==0.31.0
